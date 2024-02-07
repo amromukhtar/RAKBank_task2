@@ -1,4 +1,4 @@
-# Project Title
+# RAKBank Test 2
 
 RAKBank Task No. 2 for listing data using state management system
 The state management system used is redux

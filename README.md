@@ -8,7 +8,6 @@ The state management system used is redux
 - [Tech Stack](#TechStack)
 - [Features](#Features)
 - [Run Locally](#RunLocally)
-- [License](#license)
 
 
 ## Tech Stack

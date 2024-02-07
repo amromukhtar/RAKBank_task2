@@ -1,0 +1,3 @@
+const PERSIST_STORE_NAME = "APP_SORTAGE";
+
+export { PERSIST_STORE_NAME };
